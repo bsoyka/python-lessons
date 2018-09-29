@@ -1,5 +1,5 @@
 # Now let's learn about saving information for later.  This is called using
-# variables.  Variables store information for you tp use and change later.
+# variables.  Variables store information for you to use and change later.
 # Let's go back to our 1 + 2 problem again.
 
 x = 1
