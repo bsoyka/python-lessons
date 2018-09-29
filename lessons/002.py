@@ -3,7 +3,7 @@
 
 print(1 + 2)
 
-# This code simple finds what 1 + 2 is, and finds 3.  Then, it passes the
+# This code simply finds what 1 + 2 is, and finds 3.  Then, it passes the
 # answer to the "print" function, which we learned last lesson.  So, the
 # program prints 1 + 2, which is 3.
 
