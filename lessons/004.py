@@ -8,7 +8,7 @@ def say(what_to_say): # "say" is what our function will be named.
     # The "(what_to_say)", means that the function will take one parameter as
     # the input, and then that input will be turned into the "what_to_say"
     # variable.
-    
+
     print(what_to_say)
 
 # In our function, we simply made a small amount of code that basically
