@@ -24,4 +24,5 @@ y = 3
 say(x + y)
 
 # These tests are all based on our previous lessons.  The "say" function can
-# now be used instead of the "print" function, but only in this file.
+# now be used instead of the "print" function, but only in this file, because
+# the function isn't automatically copied to other files.
