@@ -4,10 +4,11 @@
 print(1 + 2)
 
 # This code simply finds what 1 + 2 is, and finds 3.  Then, it passes the
-# answer to the "print" function, which we learned last lesson.  So, the
+# answer to the "print" function, which we learned about last lesson.  So, the
 # program prints 1 + 2, which is 3.
 
 print("1 + 2")
 
 # If we were to run this code however, the system would print out the string,
-# "1 + 2", and it won't try to find 1 + 2, because that wasn't what was given.
+# "1 + 2", and it won't try to find 1 + 2, because that wasn't what was
+# provided.
