@@ -4,4 +4,4 @@
 print("Hello World")
 
 # The above code simply passes the string "Hello World" to the "print"
-# function, which prints the input to the screen.
+# function, which prints "Hello World" to the screen.
