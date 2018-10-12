@@ -17,9 +17,9 @@ print(x * y)
 # Here's division:
 print(x / y)
 
-# Notice how, when run, the answer to the division problem is 2, instead of
+# Notice how, when run, the answer to the division problem is 2.0, instead of
 # just 2.  That's because 2 is an integer, and division returns a float, which
-# has a decimal.  What if we want to just have 2?
+# has a decimal point.  What if we want to just have 2?
 
 print(x // y)
 
