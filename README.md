@@ -5,7 +5,7 @@
 These are some basic beginner lessons to learn Python 3.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# Table of Contents
+## Table of Contents
 
 - [How to use](#how-to-use)
   - [Verifying if Python is installed](#verifying-if-python-is-installed)
