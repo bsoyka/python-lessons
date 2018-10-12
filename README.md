@@ -1,4 +1,7 @@
 # Python Lessons
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d86a7b1dd8b549ccb3233f1c7510a5d5)](https://app.codacy.com/app/bensoyka/python-lessons?utm_source=github.com&utm_medium=referral&utm_content=bsoyka/python-lessons&utm_campaign=Badge_Grade_Settings)
+
 These are some basic beginner lessons to learn Python 3.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
