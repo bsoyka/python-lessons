@@ -36,6 +36,4 @@ try:
 except:
     print("Error")
 
-# Great!  Now our program functions properly.  There is still one more error
-# that can occur, and that is if the user types in something other than a
-# number.
+# Great!  Now our program functions properly.
